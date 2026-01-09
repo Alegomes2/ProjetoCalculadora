@@ -1,21 +1,125 @@
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/12/05/15/28/15-28-43-29_512.gif" width="350">
-</p>
+# 🧮 Calculadora Web
 
-# :dart: Sobre # 
-<h4 align="center">Calculadora</h4>
+Uma **calculadora funcional para operações matemáticas básicas**, criada com **HTML, CSS e JavaScript**.  
+Este projeto demonstra habilidades em front-end, lógica de programação e interação com o usuário.
 
-https://github.com/Alegomes2/ProjetoCalculadora/assets/106035501/68b56359-d119-40a5-a9f2-1a8942b68406
+---
 
-# :rocket: Tecnologias #
-<h4>As seguintes ferramnetas foram usadas nesse projeto:</h4>
+## 🎯 Objetivo do Projeto
 
-:heavy_check_mark: [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+O objetivo deste projeto é construir uma interface de **calculadora totalmente funcional** que permite ao usuário:
 
-:heavy_check_mark: [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/) 
+- Inserir números com clique do mouse ou teclado;
+- Selecionar operações (adição, subtração, multiplicação e divisão);
+- Ver o resultado de forma rápida e intuitiva.
 
-:heavy_check_mark: [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+A proposta é aplicar conceitos de DOM, eventos, manipulação de valores e responsividade em interfaces web — uma habilidade essencial para desenvolvedores front-end.
 
-<a href="#top">De volta ao topo </a>
+---
+
+## 🧠 O que este projeto demonstra
+
+Este projeto mostra competências em:
+
+✔️ **JavaScript** para lógica de cálculo e interação do usuário  
+✔️ Manipulação do **DOM** e eventos  
+✔️ Estrutura semântica com **HTML5**  
+✔️ Estilização responsiva e visual com **CSS3**
+
+Essas habilidades são muito valorizadas em posições de desenvolvimento web e estão alinhadas com o que muitas empresas buscam em portfólios técnicos.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+Este projeto foi construído com:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+
+Essas tecnologias garantem que o projeto funcione em qualquer navegador moderno sem dependências externas.
+
+---
+
+## 📷 Visualização do Projeto
+
+
+
+---
+
+## 🚀 Como Usar
+
+### 1. Clone este repositório
+
+```bash
+git clone https://github.com/Alegomes2/ProjetoCalculadora.git
+
+````
+
+2. Entre na pasta
+   
+```bash
+cd ProjetoCalculadora
+
+````
+
+3. Abra no navegador
+
+Abra o arquivo index.html no navegador de sua preferência.
+
+O projeto não precisa de servidor — roda localmente!
+
+📁 Estrutura do Projeto
+
+```bash
+📦 ProjetoCalculadora
+├── index.html         # Interface da calculadora
+├── style.css          # Estilização
+├── script.js          # Lógica de cálculo
+└── README.md          # Documentação
+````
+
+🔍 Como funciona
+
+✨ O JavaScript detecta cliques nos botões e preenche um campo de entrada.
+
+✨ Ao clicar em “=”, a lógica interpreta a expressão e mostra o resultado.
+
+✨ Operações suportadas: +, -, ×, ÷ e números decimais.
+
+Esse tipo de lógica é fundamental para aplicações interativas modernas.
+
+
+📈 Possíveis Melhorias
+
+🔹 Adicionar suporte a teclas do teclado físico (além de cliques)
+
+🔹 Criar tema claro/escuro
+
+🔹 Implementar cálculo de porcentagem e histórico de operações
+
+🔹 Adicionar testes unitários para lógica de cálculo
+
+
+🤝 Contribuições
+
+Contribuições são bem-vindas!
+
+Se quiser sugerir melhorias, abrir uma issue ou enviar um pull request, fique à vontade 😊
+
+👨‍💻 Autor
+
+Alexandre Gomes
+💼 Desenvolvedor Front-End
+
+GitHub: https://github.com/Alegomes2
+
+
+
+
+
+
+
 
